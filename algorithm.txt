@@ -5,3 +5,17 @@
 //
 // daelevan
 
+This assignment requires creation of abstract data types, file input/output, classes, and object oriented programming.
+	
+Needs to read a text file and push the Student object onto a Stack.
+
+This program should print three options for the user
+1) load students
+	This should read in a text file line by line.
+	Each line should place different values onto the stack into different categories
+	
+2) print stack 
+	this should print the students that were loaded onto the stack  
+
+3) exit program
+	this should exit the program
